@@ -31,6 +31,7 @@ TACTIC has a number of key components:
 <p align="center">
   <img width="400px" src="http://community.southpawtech.com/tactic/plugins/community/content/media/vfx_data_model.png"/>
 </p>
+p align=
 
 * **Digital Asset Manager**
 
